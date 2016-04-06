@@ -7,4 +7,4 @@ Firefox 45.0.1
 Internet Explorer 11
 
 Click for demo:
-http://randomashes.github.io/Project-6-SVG-Site-Update/
+http://randomashes.github.io/SVG-Site/
