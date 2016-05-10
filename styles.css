@@ -20,6 +20,7 @@ p {
   margin: 35px auto 0;
   line-height: 2em;
   text-align: left;
+  padding: 15px;
 }
 
 a {
@@ -58,7 +59,6 @@ main {
     main li {
       display: inline-block;
       color: #ba8058;
-      margin-right: 20px;
     }
       main li img {
         margin-bottom: 15px;
@@ -122,6 +122,12 @@ main {
 }
 
 /* CORGI IMAGES */
+
+.corgi_imgs {
+  width: 170px;
+  height: 170px;
+  padding: 15px;
+}
 
 /* Red */
 
@@ -218,5 +224,7 @@ footer {
 
   .corgi_imgs {
     width: 170px;
+    height: 170px;
+    padding: 0;
   }
 }
